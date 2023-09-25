@@ -8,7 +8,7 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 25.9.23| 0.0.1   | ✍Diese Stelle gibt Ihnen und Ihrer Lehrperson eine einfache Möglichkeit, sich eine Übersicht über Ihr Projekt zu verschaffen. Wir beschaffen uns die nötige Informantion und Planen dann für das nächste mal. |
+| 25.9.23| 0.0.1   | ✍ Wir beschaffen uns die nötige Informantion und Planen dann für das nächste mal. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -16,7 +16,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+✍️ Unser Ziel ist es das der Kunde sein Kapital, Die Laufzeit und den Zinssatz eingibt um zu sehen wie viel Geld das er in dieser Zeit macht.
 
 ### 1.2 Anforderungen
 
