@@ -4,11 +4,11 @@
 
 <span style="background: azure">Stellen, an welchen Sie etwas ausfüllen müssen, beginnen mit ✍️. Wenn Sie die nötige Information eingetragen haben, können Sie ✍️ entfernen.</span>
 
-✍️ Ihr Nachname; bei Gruppenarbeiten Ihr Gruppenname und Ihre Nachnamen
+✍️ Gr.6 Zinsenberechnung
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und erklären in *einem* griffigen Satz, was Sie an dem Tag erreicht haben. Diese Stelle gibt Ihnen und Ihrer Lehrperson eine einfache Möglichkeit, sich eine Übersicht über Ihr Projekt zu verschaffen. |
+| 25.9.23| 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und erklären in *einem* griffigen Satz, was Sie an dem Tag erreicht haben. Diese Stelle gibt Ihnen und Ihrer Lehrperson eine einfache Möglichkeit, sich eine Übersicht über Ihr Projekt zu verschaffen. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
